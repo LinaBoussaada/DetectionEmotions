@@ -1,4 +1,4 @@
-🎯 Overview
+#🎯 Overview
 This project tackles multi-label emotion classification where texts can express multiple emotions simultaneously. We compare four deep learning architectures on the GoEmotions dataset (58,000 Reddit comments, 28 emotion categories).
 Key Highlights
 
