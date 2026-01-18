@@ -30,9 +30,13 @@ Subtle emotional expressions
 <img width="698" height="261" alt="image" src="https://github.com/user-attachments/assets/c0d7ea2a-1cd5-42e1-8916-733c1a5cb723" />
 
 ### Key Findings
+
 ✅ BERT achieves best performance (61.5% F1-Micro)
+
 ✅ Hybrid CNN-BiLSTM offers best efficiency/performance trade-off
+
 ✅ Attention mechanism contributes +3.2% improvement
+
 ✅ Exact match remains challenging (< 60% even for BERT)
 
 ## 🧠 Architectures
