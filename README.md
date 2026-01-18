@@ -22,7 +22,7 @@ Severe class imbalance (92:1 ratio)
 Subtle emotional expressions
 
 ## 📊 Results
-Model Performance
+
 <img width="698" height="261" alt="image" src="https://github.com/user-attachments/assets/c0d7ea2a-1cd5-42e1-8916-733c1a5cb723" />
 
 ### Key Findings
@@ -76,6 +76,3 @@ Heatmaps showing which tokens the model focuses on.
 ⭐ If you found this project helpful, please star it!
 Made with ❤️ for the NLP community
 </div>
-Component RemovedΔF1-MicroImpactAttention Mechanism-3.2%🔴 CriticalCNN Layers-5.0%🔴 HighBiLSTM-8.9%🔴 Very HighDropout-2.4%🟡 ModeratePretrained Embeddings-0.8%🟢 Low
-Training Efficiency
-ModelTime/Epoch (GPU)Total TrainingMemoryLSTM18s~5 min1.2 GBBiLSTM+Attn22s~6 min1.5 GBCNN-BiLSTM-Attn28s~7 min1.8 GBBERT95s~24 min4.2 GB
