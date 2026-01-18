@@ -8,9 +8,13 @@ This project implements and compares four deep learning architectures for multi-
 Key Features:
 
 Multi-label classification (texts can express multiple emotions)
+
 4 architectures: LSTM, BiLSTM+Attention, CNN-BiLSTM-Attention, BERT
+
 Comprehensive evaluation with 6 metrics
+
 Explainability with LIME and attention visualization
+
 Interactive web interface
 
 
